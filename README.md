@@ -6,7 +6,7 @@
    Using the features given, we need to predict whether passenger is survived or dead. 
    
    Preprocessing:
-     I have done the preprocessing by filling the values for the missing features which are needed and removed the features which has only 
+     I have done the preprocessing by filling the values for the missing records in the features which are needed and removed the features which has only 
      very little effect like passengerId.I have compared the output variable with other features to identify how other features affects the 
      output variable. The selection of the features has been done based on the analysis of the impact of the features with the output variable.
    Model:
