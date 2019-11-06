@@ -8,7 +8,7 @@
    Preprocessing:
      I have done the preprocessing by filling the values for the missing records in the features which are needed and removed the features which has only 
      very little effect like passengerId.I have compared the output variable with other features to identify how other features affects the 
-     output variable. The selection of the features has been done based on the analysis of the impact of the features with the output variable.
+     output variable using the bar charts(using seaborn,matplotlib packages). The selection of the features has been done based on the analysis of the impact of the features with the output variable.
    Model:
      I built two models - Random Forest classifier and Support Vector Machine. Among these two, Support vector machine gave higher accuracy
      for this dataset compared to the random forest classifier. So, I have used Support vectore machine.
